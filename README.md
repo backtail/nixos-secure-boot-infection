@@ -1,6 +1,6 @@
 > [!NOTE]
 >
-> Issues and PRs are only accepted on the Codeberg repo. Github is a mirror only.
+> Issues and PRs are only accepted on the Codeberg [repo](https://codeberg.org/backtail/nixos-secure-boot-infection). Github is a mirror only.
 
 
 # NixOS Secure Boot Infection
