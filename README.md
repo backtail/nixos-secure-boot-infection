@@ -1,9 +1,8 @@
+# NixOS Secure Boot Infection
+
 > [!NOTE]
 >
 > Issues and PRs are only accepted on the Codeberg [repo](https://codeberg.org/backtail/nixos-secure-boot-infection). Github is a mirror only.
-
-
-# NixOS Secure Boot Infection
 
 ## Overview
 
