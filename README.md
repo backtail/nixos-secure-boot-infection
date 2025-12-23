@@ -195,3 +195,7 @@ Found an issue or have improvements?
 2. Fork the repository
 3. Create a feature branch
 4. Submit a pull request
+
+## License
+
+This software is part of the public domain with the [Unlicense](https://unlicense.org/).
